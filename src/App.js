@@ -8,7 +8,7 @@ function App() {
     const script = document.createElement('script')
     script.type = 'text/javascript'
     script.src =
-      'https://thinpanda95.myspreadshop.de/shopfiles/shopclient/shopclient.nocache.js'
+      'https://wohnung95.myspreadshop.de/shopfiles/shopclient/shopclient.nocache.js'
     script.async = true
 
     document.body.appendChild(script)
@@ -21,7 +21,7 @@ function App() {
     <>
       <section className='App'>
         <div id='myShop'>
-          <a href='https://thinpanda95.myspreadshop.de'>wohnung95</a>
+          <a href='https://wohnung95.myspreadshop.de'>wohnung95</a>
         </div>
       </section>
     </>
